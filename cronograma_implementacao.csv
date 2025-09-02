@@ -1,0 +1,122 @@
+Semana,Fase,Atividade,Responsável,Status,Checkpoint,Investimento (R$)
+1,Estruturação Legal,Definição da razão social e contrato social,Diretor Operacional,Planejado,Estrutura Legal,2000
+1,Estruturação Legal,Consulta de viabilidade do nome empresarial,Contador,Planejado,Estrutura Legal,500
+1,Estruturação Legal,Preparação documentação Junta Comercial,Contador,Planejado,Estrutura Legal,1000
+1,Estruturação Legal,Contratação escritório contabilidade,Diretor Operacional,Planejado,Estrutura Legal,800
+1,Recursos Humanos,Início recrutamento posições-chave,Diretor Operacional,Planejado,Estrutura Legal,1500
+2,Estruturação Legal,Registro na Junta Comercial,Contador,Planejado,Estrutura Legal,1200
+2,Estruturação Legal,Solicitação CNPJ Receita Federal,Contador,Planejado,Estrutura Legal,0
+2,Estruturação Legal,Inscrição estadual e municipal,Contador,Planejado,Estrutura Legal,800
+2,Estruturação Legal,Abertura conta bancária empresarial,Diretor Operacional,Planejado,Estrutura Legal,0
+2,Recursos Humanos,Continuidade processo recrutamento,Diretor Operacional,Planejado,Estrutura Legal,2000
+3,Recursos Humanos,Finalização seleção Diretor Operacional,Sócios,Planejado,Estrutura Legal,0
+3,Recursos Humanos,Entrevistas Supervisor Operações,Diretor Operacional,Planejado,Estrutura Legal,500
+3,Recursos Humanos,Definição critérios técnicos,Supervisor Operações,Planejado,Estrutura Legal,0
+3,Infraestrutura,Pesquisa sede operacional,Diretor Operacional,Planejado,Estrutura Legal,1000
+3,Equipamentos,Cotação equipamentos básicos,Supervisor Operações,Planejado,Estrutura Legal,500
+4,Recursos Humanos,Contratação Diretor Operacional,Sócios,Planejado,Estrutura Legal,8000
+4,Recursos Humanos,Contratação Supervisor Operações,Diretor Operacional,Planejado,Estrutura Legal,6000
+4,Recursos Humanos,Seleção técnicos especializados,Supervisor Operações,Planejado,Estrutura Legal,1000
+4,Infraestrutura,Contratação sede operacional,Diretor Operacional,Planejado,Estrutura Legal,4000
+4,Equipamentos,Aquisição equipamentos básicos,Supervisor Operações,Planejado,Estrutura Legal,8000
+5,Tecnologia,Contratação desenvolvimento CRM,Diretor Operacional,Planejado,Sistemas e Treinamento,15000
+5,Tecnologia,Início desenvolvimento site,Diretor Operacional,Planejado,Sistemas e Treinamento,8000
+5,Recursos Humanos,Contratação técnicos especializados,Supervisor Operações,Planejado,Sistemas e Treinamento,10000
+5,Treinamento,Planejamento programa treinamento,Supervisor Operações,Planejado,Sistemas e Treinamento,2000
+5,Equipamentos,Especificações equipamentos especializados,Supervisor Operações,Planejado,Sistemas e Treinamento,500
+6,Tecnologia,Desenvolvimento CRM em andamento,Fornecedor TI,Planejado,Sistemas e Treinamento,0
+6,Tecnologia,Criação conteúdo site institucional,Marketing,Planejado,Sistemas e Treinamento,3000
+6,Treinamento,Elaboração material treinamento,Supervisor Operações,Planejado,Sistemas e Treinamento,2500
+6,Equipamentos,Cotação equipamentos especializados,Supervisor Operações,Planejado,Sistemas e Treinamento,1000
+6,Infraestrutura,Planejamento infraestrutura física,Diretor Operacional,Planejado,Sistemas e Treinamento,1500
+7,Treinamento,Início programa treinamento equipe,Supervisor Operações,Planejado,Sistemas e Treinamento,5000
+7,Tecnologia,Testes iniciais sistema CRM,Fornecedor TI,Planejado,Sistemas e Treinamento,0
+7,Processos,Desenvolvimento processos operacionais,Supervisor Operações,Planejado,Sistemas e Treinamento,1000
+7,Equipamentos,Negociação fornecedores equipamentos,Diretor Operacional,Planejado,Sistemas e Treinamento,500
+7,Infraestrutura,Preparação infraestrutura sede,Diretor Operacional,Planejado,Sistemas e Treinamento,3000
+8,Treinamento,Continuidade programa treinamento,Supervisor Operações,Planejado,Sistemas e Treinamento,3000
+8,Tecnologia,Refinamento sistema CRM,Fornecedor TI,Planejado,Sistemas e Treinamento,2000
+8,Processos,Finalização processos operacionais,Supervisor Operações,Planejado,Sistemas e Treinamento,500
+8,Equipamentos,Fechamento contratos fornecedores,Diretor Operacional,Planejado,Sistemas e Treinamento,0
+8,Infraestrutura,Conclusão preparação sede,Diretor Operacional,Planejado,Sistemas e Treinamento,2000
+9,Equipamentos,Recebimento equipamentos especializados,Supervisor Operações,Planejado,Infraestrutura Completa,25000
+9,Equipamentos,Testes individuais equipamentos,Técnicos,Planejado,Infraestrutura Completa,1000
+9,Treinamento,Treinamento prático com equipamentos,Supervisor Operações,Planejado,Infraestrutura Completa,2000
+9,Frota,Aquisição e adaptação veículo,Diretor Operacional,Planejado,Infraestrutura Completa,35000
+9,Estoque,Organização estoque materiais,Supervisor Operações,Planejado,Infraestrutura Completa,8000
+10,Equipamentos,Testes integrados equipamentos,Técnicos,Planejado,Infraestrutura Completa,500
+10,Operações,Simulação completa atendimentos,Supervisor Operações,Planejado,Infraestrutura Completa,1000
+10,Processos,Ajustes processos baseados testes,Supervisor Operações,Planejado,Infraestrutura Completa,500
+10,Frota,Finalização adaptação veículo,Fornecedor,Planejado,Infraestrutura Completa,5000
+10,Estoque,Implementação controle estoque,Supervisor Operações,Planejado,Infraestrutura Completa,2000
+11,Tecnologia,Finalização sistema CRM,Fornecedor TI,Planejado,Parcerias e Marketing,3000
+11,Tecnologia,Publicação site institucional,Marketing,Planejado,Parcerias e Marketing,1000
+11,Parcerias,Início negociações parceiros,Diretor Operacional,Planejado,Parcerias e Marketing,2000
+11,Marketing,Desenvolvimento material promocional,Marketing,Planejado,Parcerias e Marketing,4000
+11,Operações,Testes finais processos operacionais,Supervisor Operações,Planejado,Parcerias e Marketing,500
+12,Tecnologia,Configuração automações sistema,Fornecedor TI,Planejado,Parcerias e Marketing,1500
+12,Tecnologia,Otimização site baseada testes,Marketing,Planejado,Parcerias e Marketing,1000
+12,Parcerias,Formalização primeiras parcerias,Diretor Operacional,Planejado,Parcerias e Marketing,1000
+12,Marketing,Produção material promocional,Marketing,Planejado,Parcerias e Marketing,3000
+12,Treinamento,Certificação final equipe técnica,Supervisor Operações,Planejado,Parcerias e Marketing,1000
+13,Marketing,Lançamento campanhas pré-lançamento,Marketing,Planejado,Parcerias e Marketing,5000
+13,Marketing,Criação conteúdo redes sociais,Marketing,Planejado,Parcerias e Marketing,2000
+13,Marketing,Distribuição material promocional,Marketing,Planejado,Parcerias e Marketing,2000
+13,Parcerias,Ativação parcerias geração leads,Diretor Operacional,Planejado,Parcerias e Marketing,1000
+13,Eventos,Preparação evento inauguração,Diretor Operacional,Planejado,Parcerias e Marketing,3000
+14,Marketing,Intensificação campanhas digitais,Marketing,Planejado,Parcerias e Marketing,4000
+14,Marketing,Produção conteúdo educativo,Marketing,Planejado,Parcerias e Marketing,1500
+14,Marketing,Expansão distribuição material,Marketing,Planejado,Parcerias e Marketing,1500
+14,Parcerias,Consolidação parcerias estratégicas,Diretor Operacional,Planejado,Parcerias e Marketing,500
+14,Eventos,Finalização preparativos inauguração,Diretor Operacional,Planejado,Parcerias e Marketing,2000
+15,Marketing,Campanha intensiva geração leads,Marketing,Planejado,Lançamento Executado,3000
+15,Operações,Testes finais todos sistemas,Supervisor Operações,Planejado,Lançamento Executado,500
+15,Treinamento,Treinamento final equipe,Supervisor Operações,Planejado,Lançamento Executado,1000
+15,Operações,Preparação logística lançamento,Diretor Operacional,Planejado,Lançamento Executado,1000
+15,Eventos,Confirmação participantes inauguração,Marketing,Planejado,Lançamento Executado,500
+16,Operações,Ajustes finais baseados feedback,Supervisor Operações,Planejado,Lançamento Executado,500
+16,Operações,Finalização preparativos,Diretor Operacional,Planejado,Lançamento Executado,1000
+16,Parcerias,Confirmação fornecedores parceiros,Diretor Operacional,Planejado,Lançamento Executado,0
+16,Treinamento,Preparação equipe lançamento,Supervisor Operações,Planejado,Lançamento Executado,500
+16,Tecnologia,Verificação final sistemas,Fornecedor TI,Planejado,Lançamento Executado,500
+17,Eventos,Execução evento inauguração,Diretor Operacional,Planejado,Lançamento Executado,8000
+17,Operações,Início oficial operações comerciais,Supervisor Operações,Planejado,Lançamento Executado,0
+17,Operações,Atendimento primeiros clientes,Técnicos,Planejado,Lançamento Executado,0
+17,Operações,Monitoramento intensivo processos,Supervisor Operações,Planejado,Lançamento Executado,500
+17,Operações,Ajustes operacionais tempo real,Supervisor Operações,Planejado,Lançamento Executado,500
+18,Operações,Continuidade operações comerciais,Técnicos,Planejado,Lançamento Executado,0
+18,Análise,Análise primeiros resultados,Diretor Operacional,Planejado,Lançamento Executado,500
+18,Operações,Ajustes baseados experiência,Supervisor Operações,Planejado,Lançamento Executado,1000
+18,Marketing,Intensificação campanhas marketing,Marketing,Planejado,Lançamento Executado,3000
+18,Processos,Consolidação processos operacionais,Supervisor Operações,Planejado,Lançamento Executado,500
+19,Análise,Análise detalhada performance inicial,Diretor Operacional,Planejado,Operação Consolidada,1000
+19,Operações,Implementação melhorias identificadas,Supervisor Operações,Planejado,Operação Consolidada,2000
+19,Comercial,Expansão atividades comerciais,Diretor Operacional,Planejado,Operação Consolidada,2000
+19,Marketing,Desenvolvimento novos conteúdos,Marketing,Planejado,Operação Consolidada,1500
+19,Parcerias,Fortalecimento parcerias existentes,Diretor Operacional,Planejado,Operação Consolidada,1000
+20,Operações,Consolidação melhorias implementadas,Supervisor Operações,Planejado,Operação Consolidada,1000
+20,Planejamento,Planejamento expansão capacidade,Diretor Operacional,Planejado,Operação Consolidada,500
+20,Análise,Análise satisfação primeiros clientes,Marketing,Planejado,Operação Consolidada,500
+20,Marketing,Otimização campanhas marketing,Marketing,Planejado,Operação Consolidada,2000
+20,Planejamento,Preparação crescimento sustentável,Diretor Operacional,Planejado,Operação Consolidada,1000
+21,Análise,Análise abrangente indicadores,Diretor Operacional,Planejado,Operação Consolidada,1000
+21,Operações,Implementação melhorias estruturais,Supervisor Operações,Planejado,Operação Consolidada,3000
+21,Comercial,Expansão base clientes,Diretor Operacional,Planejado,Operação Consolidada,2000
+21,Desenvolvimento,Desenvolvimento novos serviços,Supervisor Operações,Planejado,Operação Consolidada,2000
+21,Planejamento,Planejamento estratégico próximos meses,Diretor Operacional,Planejado,Operação Consolidada,1000
+22,Análise,Continuidade análise indicadores,Diretor Operacional,Planejado,Operação Consolidada,500
+22,Operações,Continuidade melhorias estruturais,Supervisor Operações,Planejado,Operação Consolidada,2000
+22,Comercial,Continuidade expansão clientes,Diretor Operacional,Planejado,Operação Consolidada,1500
+22,Desenvolvimento,Continuidade desenvolvimento serviços,Supervisor Operações,Planejado,Operação Consolidada,1500
+22,Planejamento,Continuidade planejamento estratégico,Diretor Operacional,Planejado,Operação Consolidada,500
+23,Processos,Consolidação todos processos,Supervisor Operações,Planejado,Operação Consolidada,1000
+23,Financeiro,Atingimento metas receita,Diretor Operacional,Planejado,Operação Consolidada,0
+23,Planejamento,Preparação crescimento acelerado,Diretor Operacional,Planejado,Operação Consolidada,1000
+23,Desenvolvimento,Desenvolvimento planos expansão,Diretor Operacional,Planejado,Operação Consolidada,1500
+23,Análise,Análise resultados alcançados,Diretor Operacional,Planejado,Operação Consolidada,500
+24,Processos,Finalização consolidação processos,Supervisor Operações,Planejado,Operação Consolidada,500
+24,Financeiro,Confirmação atingimento metas,Diretor Operacional,Planejado,Operação Consolidada,0
+24,Planejamento,Finalização preparação crescimento,Diretor Operacional,Planejado,Operação Consolidada,500
+24,Desenvolvimento,Finalização planos expansão,Diretor Operacional,Planejado,Operação Consolidada,1000
+24,Celebração,Celebração resultados alcançados,Toda Equipe,Planejado,Operação Consolidada,2000
+
